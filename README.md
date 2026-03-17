@@ -53,9 +53,9 @@ Telegram-бот для викторины по IT-тематике.
 - проектирования структуры базы данных.
 - 
 ## Скриншоты
-![1](screenshots/1.jpg)
-![2](screenshots/2.jpg)
-![3](screenshots/3.jpg)
+![1](Screenshots/1.jpg)
+![2](Screenshots/2.jpg)
+![3](Screenshots/3.jpg)
 
 ## Примечание
 Проект является учебной работой.  
