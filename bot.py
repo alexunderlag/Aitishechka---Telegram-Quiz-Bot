@@ -38,7 +38,7 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 # Инициализация бота
-API_TOKEN = '6816488325:AAGHMJCz_rwCPMVJkX255M-diou5FIJg0D0'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 telebot.logger.setLevel(logging.INFO)  # Настройка уровня логирования telebot
